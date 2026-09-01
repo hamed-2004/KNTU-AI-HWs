@@ -1,0 +1,143 @@
+\contentsline {section}{\numberline {1}سوال 1}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}صورت مسئله و تعریف شبکه}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}مشتق‌گیری برای تابع هزینهٔ MSE}{7}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}مشتق نسبت به خروجی شبکه}{7}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}گرادیان‌های لایهٔ خروجی}{8}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}گرادیان‌های لایهٔ پنهان}{9}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}گرادیان‌های لایهٔ اول}{10}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}جمع‌بندی حالت MSE}{10}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}مشتق‌گیری برای تابع هزینهٔ Binary Cross-Entropy}{11}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}مشتق نسبت به خروجی شبکه}{11}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}گرادیان‌های لایهٔ خروجی}{12}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}گرادیان‌های لایهٔ پنهان}{13}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}جمع‌بندی حالت BCE}{13}{subsubsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.4}مقایسهٔ نهایی MSE و BCE}{14}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}پاسخ نهایی}{15}{subsection.1.5}%
+\contentsline {section}{\numberline {2}سوال 2}{16}{section.2}%
+\contentsline {subsection}{\numberline {2.1}صورت مسئله و تعریف شبکه}{16}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}بخش الف: محاسبهٔ بیشینهٔ مشتق تابع سیگموید}{17}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}محاسبهٔ مشتق سیگموید}{17}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}بخش ب: بررسی سیگنال خطا و اثبات محو شدن گرادیان}{19}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}رابطهٔ بازگشتی سیگنال خطا}{20}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}وابستگی خطا به حاصل‌ضرب مشتقات}{20}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}فرض نرمال بودن وزن‌ها}{21}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}اثبات نامساوی برای لایهٔ اول}{22}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}بخش ج: تحلیل اثر افزایش تعداد لایه‌ها بر سرعت یادگیری}{23}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}اثر روی به‌روزرسانی وزن‌ها}{24}{subsubsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.5}جمع‌بندی نهایی سوال 2}{25}{subsection.2.5}%
+\contentsline {section}{\numberline {3}سوال 3}{26}{section.3}%
+\contentsline {subsection}{\numberline {3.1}صورت مسئله و مفهوم قضیه تقریب عمومی}{26}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}بخش الف: چرا به‌جای شبکه‌های بسیار عریض، از شبکه‌های عمیق استفاده می‌کنیم؟}{27}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}1. تفاوت بین توانایی وجودی و کارایی عملی}{27}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}2. بیان‌پذیری بهتر شبکه‌های عمیق}{28}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}3. کاهش تعداد پارامترها}{29}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}4. یادگیری ویژگی‌ها به‌صورت سلسله‌مراتبی}{30}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}5. سهولت یادگیری و تعمیم بهتر}{30}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}جمع‌بندی بخش الف}{31}{subsubsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.3}بخش ب: مثالی از تابعی که شبکهٔ تک‌لایه برای نمایش آن به تعداد نمایی نورون نیاز دارد}{32}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}مثال اول: تابع ضرب سلسله‌مراتبی}{32}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}نمایش تابع ضرب با شبکهٔ عمیق}{33}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}مثال دوم: تابع ترکیبی سلسله‌مراتبی}{34}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}تفاوت رشد چندجمله‌ای و نمایی}{35}{subsubsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.4}تحلیل ارتباط با قضیه تقریب عمومی}{36}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}جمع‌بندی نهایی سوال 3}{37}{subsection.3.5}%
+\contentsline {section}{\numberline {4}سوال 4}{38}{section.4}%
+\contentsline {subsection}{\numberline {4.1}بخش الف: الگوریتم Momentum}{38}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}تفسیر بردار سرعت}{39}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}اثر Momentum در راستای گرادیان‌های هم‌جهت}{39}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}اثر Momentum در راستای نوسان‌ها}{40}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}بخش ب: الگوریتم RMSProp}{40}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}تفسیر جمله $s_t$}{41}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}تنظیم تطبیقی نرخ یادگیری}{41}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}اثر RMSProp در دره‌های باریک تابع هزینه}{42}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}بخش ج: الگوریتم Adam}{43}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}اصلاح بایاس در Adam}{43}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}رابطهٔ نهایی به‌روزرسانی در Adam}{44}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}نقش ابرپارامترهای Adam}{45}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}تغییر رفتار یادگیری با تنظیم پارامترها}{45}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}مقایسه Adam با Momentum و RMSProp}{46}{subsubsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.4}جمع‌بندی نهایی سوال 4}{47}{subsection.4.4}%
+\contentsline {section}{\numberline {5}پیش‌بینی قیمت مسکن }{48}{section.5}%
+\contentsline {subsection}{\numberline {5.1}(الف) بررسی اولیه داده}{48}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}بارگذاری داده و نمایش ۱۰ سطر اول}{48}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}گزارش تعداد نمونه‌ها و ویژگی‌ها}{49}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}بررسی ستون‌های دارای مقادیر گم‌شده (\lr {Missing Values})}{49}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}رسم هیستوگرام متغیر هدف و گزارش میانگین}{50}{subsubsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.2}(ب) پیش‌پردازش داده}{51}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}جایگزینی مقادیر گمشده}{51}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}تبدیل ویژگی‌های کیفی به عددی با One-Hot Encoding}{52}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}توضیح تعداد ویژگی‌ها پس از Encoding}{53}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}تقسیم داده‌ها به آموزش و آزمون}{53}{subsubsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.5}نرمال‌سازی ویژگی‌ها با StandardScaler}{54}{subsubsection.5.2.5}%
+\contentsline {subsubsection}{\numberline {5.2.6}جمع‌بندی پارت ب}{55}{subsubsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.3}(پ) مدل پایه}{55}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}آموزش مدل Linear Regression}{55}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}گزارش مقدار RMSE مدل پایه}{56}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}(ت) طراحی مدل \lr {MLP}}{56}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}ساختار لایه‌های شبکه}{56}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}محاسبه پارامترهای قابل یادگیری}{58}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}دلیل استفاده از MSE در رگرسیون}{58}{subsubsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.5}(ث) آموزش مدل}{58}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}تنظیمات آموزش (\lr {Compile} و \lr {Fit})}{58}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}تحلیل روند یادگیری}{59}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {5.5.3}ارزیابی نهایی و مقایسه با مدل خطی}{60}{subsubsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.6}(ج) بررسی ابرپارامترها}{61}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}۱) بررسی توابع فعال‌سازی}{62}{subsubsection.5.6.1}%
+\contentsline {paragraph}{توضیح تئوری}{62}{subsubsection.5.6.1}%
+\contentsline {paragraph}{روش اجرا}{62}{subsubsection.5.6.1}%
+\contentsline {paragraph}{کد آزمایش توابع فعال‌سازی}{62}{subsubsection.5.6.1}%
+\contentsline {paragraph}{نمودار مقایسه توابع فعال‌سازی}{63}{lstnumber.13.37}%
+\contentsline {paragraph}{جدول نتایج}{64}{figure.caption.12}%
+\contentsline {paragraph}{تحلیل نتایج}{64}{table.caption.13}%
+\contentsline {subsubsection}{\numberline {5.6.2}۲) بررسی نرخ یادگیری}{64}{subsubsection.5.6.2}%
+\contentsline {paragraph}{توضیح تئوری}{64}{subsubsection.5.6.2}%
+\contentsline {paragraph}{روش اجرا}{64}{subsubsection.5.6.2}%
+\contentsline {paragraph}{کد آزمایش نرخ یادگیری}{65}{subsubsection.5.6.2}%
+\contentsline {paragraph}{نمودار همگرایی نرخ‌های یادگیری}{66}{lstnumber.14.37}%
+\contentsline {paragraph}{جدول نتایج}{66}{figure.caption.14}%
+\contentsline {paragraph}{تحلیل نتایج}{66}{table.caption.15}%
+\contentsline {subsubsection}{\numberline {5.6.3}۳) بررسی معماری شبکه}{67}{subsubsection.5.6.3}%
+\contentsline {paragraph}{توضیح تئوری}{67}{subsubsection.5.6.3}%
+\contentsline {paragraph}{روش اجرا}{67}{subsubsection.5.6.3}%
+\contentsline {paragraph}{کد آزمایش معماری شبکه}{67}{subsubsection.5.6.3}%
+\contentsline {paragraph}{نمودار مقایسه معماری‌ها}{69}{lstnumber.15.43}%
+\contentsline {paragraph}{جدول نتایج}{69}{figure.caption.16}%
+\contentsline {paragraph}{تحلیل نتایج}{69}{table.caption.17}%
+\contentsline {subsubsection}{\numberline {5.6.4}جمع‌بندی نهایی}{70}{subsubsection.5.6.4}%
+\contentsline {subsection}{\numberline {5.7}(چ) تحلیل خطاهای مدل}{70}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}استخراج نمونه‌های دارای بیشترین خطا}{70}{subsubsection.5.7.1}%
+\contentsline {paragraph}{کد استخراج 5 خطای بزرگ}{70}{equation.2}%
+\contentsline {subsubsection}{\numberline {5.7.2}جدول نمونه‌های دارای بیشترین خطا}{71}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {5.7.3}بررسی ویژگی‌های مؤثر بر خطا}{72}{subsubsection.5.7.3}%
+\contentsline {paragraph}{تحلیل ویژگی‌ها}{72}{subsubsection.5.7.3}%
+\contentsline {paragraph}{کد بررسی ویژگی‌های نمونه‌های خطادار}{72}{subsubsection.5.7.3}%
+\contentsline {subsubsection}{\numberline {5.7.4}تحلیل نهایی}{73}{subsubsection.5.7.4}%
+\contentsline {section}{\numberline {6}پیاده‌سازی شبکه عصبی چندلایه برای طبقه‌بندی MNIST}{74}{section.6}%
+\contentsline {subsection}{\numberline {6.1}(الف) بارگذاری و آماده‌سازی داده‌ها}{74}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}بارگذاری مجموعه‌داده \lr {MNIST}}{74}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}پیش‌پردازش تصاویر و برچسب‌ها}{76}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.2}(ب) طراحی شبکه عصبی برای طبقه‌بندی}{77}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}طراحی ساختار کلی شبکه}{77}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}تابع فعال‌سازی \lr {Softmax}}{78}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}تابع زیان \lr {Cross-Entropy} در برابر \lr {MSE}}{78}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}محاسبه تعداد پارامترها}{78}{subsubsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.3}(پ) آموزش مدل}{79}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}کامپایل مدل با \lr {Adam}}{79}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}توضیح روند آموزش}{80}{subsubsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.4}(ت) ارزیابی مدل}{80}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}محاسبه دقت روی داده‌های آزمون}{80}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}ماتریس درهم‌ریختگی}{81}{subsubsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.3}تحلیل خطاها}{82}{subsubsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.5}(ث) بررسی مقادیر اولیه وزن‌ها}{82}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}اثر مقداردهی اولیه تصادفی}{82}{subsubsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.2}مقایسه با مقداردهی اولیه \lr {Xavier (Glorot)}}{83}{subsubsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.6}(ج) بررسی اندازه \lr {Batch}}{84}{subsection.6.6}%
+\contentsline {subsubsection}{\numberline {6.6.1}آزمایش با اندازه‌های مختلف \lr {Batch}}{84}{subsubsection.6.6.1}%
+\contentsline {subsubsection}{\numberline {6.6.2}تحلیل تأثیر \lr {Batch Size}}{85}{subsubsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.7}(چ) افزایش عمق شبکه}{85}{subsection.6.7}%
+\contentsline {subsubsection}{\numberline {6.7.1}مدل با لایه پنهان بیشتر}{85}{subsubsection.6.7.1}%
+\contentsline {subsubsection}{\numberline {6.7.2}تحلیل اینکه آیا مدل عمیق‌تر بهتر است یا نه}{86}{subsubsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.8}(ح) محدودیت‌های \lr {MLP} در پردازش تصویر}{87}{subsection.6.8}%
+\contentsline {subsubsection}{\numberline {6.8.1}چرا \lr {Flatten} لازم است؟}{87}{subsubsection.6.8.1}%
+\contentsline {subsubsection}{\numberline {6.8.2}مقایسه با شبکه‌های کانولوشنی \lr {CNN}}{87}{subsubsection.6.8.2}%
+\contentsline {subsubsection}{\numberline {6.8.3}جمع‌بندی نهایی محدودیت‌ها}{87}{subsubsection.6.8.3}%
