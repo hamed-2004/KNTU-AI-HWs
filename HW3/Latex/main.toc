@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}سوال اول - ارزیابی مفاهیم پایه و پیشرفته فازی}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}متمم فازی (\lr {Fuzzy Complement})}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}اجتماع و اشتراک فازی (\lr {S-norms / T-norms})}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}اشتراک فازی (\lr {T-norms}) و کران‌های آن}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}قانون دمورگان و طبقه مرتبط (\lr {Associated Class})}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}پیش‌بینی سری زمانی مکی-گلس (\lr {Mackey-Glass})}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}۲.۱ معرفی معادله و مشخصات سیستم}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}۲.۲ ساخت مجموعه دادگان (\lr {Dataset Generation})}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}۲.۳ پیاده‌سازی واقعی و آموزش مدل \lr {ANFIS} با \lr {PyTorch}}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}۲.۴ ارزیابی و تحلیل نتایج}{9}{subsection.2.4}%
+\contentsline {section}{\numberline {3}روش \lr {Lookup Table} مبتنی بر \lr {Wang-Mendel}}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}بخش ۱: فازی‌سازی (\lr {Fuzzification})}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}بخش ۲: استخراج قواعد (\lr {Rule Extraction})}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}بخش ۳: رفع تعارض (\lr {Conflict Resolution})}{12}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}بخش ۴: تشکیل \lr {Rule Base} نهایی}{13}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}بخش ۵: استنتاج فازی (\lr {Fuzzy Inference})}{14}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}بخش ۶: ارزیابی عملکرد (\lr {Performance Evaluation})}{15}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}بخش ۷: تحلیل نتایج و پرسش‌های مفهومی}{17}{subsection.3.7}%
+\contentsline {section}{\numberline {4}مدل‌سازی مصرف سوخت خودرو و تحلیل داده با مدل \lr {ANFIS}}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}گام ۱: طراحی معماری ۵ لایه \lr {ANFIS}}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}گام ۲: پیاده‌سازی یادگیری ترکیبی (\lr {Hybrid Learning})}{19}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}گام ۳: استخراج و تفسیر قواعد فازی}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}گام ۴: تحلیل اکتشافی داده‌ها (\lr {EDA})}{22}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}گام ۵: مهندسی ویژگی (\lr {Feature Engineering})}{23}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}گام ۶: مدل‌سازی با یادگیری ماشین کلاسیک}{24}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}گام ۷: ارزیابی مقایسه‌ای جامع}{25}{subsection.4.7}%
